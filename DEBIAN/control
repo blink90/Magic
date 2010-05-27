@@ -1,6 +1,6 @@
 Package: magic
 Version: 0.1
-Section: admin
+Section: multimedia
 Priority: optional
 Architecture: all
 Essential: no
