@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Magic
+Comment=Magic Multimedia Player
+Exec=magic
+Icon=magic
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;System;
