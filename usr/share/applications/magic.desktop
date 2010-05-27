@@ -1,9 +1,13 @@
 [Desktop Entry]
 Encoding=UTF-8
 Name=Magic
-Comment=Magic Multimedia Player
-Exec=magic
-Icon=magic
+GenericName=Multimedia Player
+X-GNOME-FullName=Magic Multimedia Player
+Comment=Play and organize your multimedia collection
+Exec=magic %U
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;System;
+Icon=magic
+Categories=GNOME;GTK;AudioVideo;
+#unvolständige mimtypes
+MimeType=application/x-ogg;application/ogg;audio/x-vorbis+ogg;audio/x-scpls;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-mpegurl;audio/x-flac;x-content/audio-cdda;x-content/audio-player;

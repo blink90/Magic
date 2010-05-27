@@ -1,0 +1,10 @@
+Package: magic
+Version: 0.1
+Section: admin
+Priority: optional
+Architecture: all
+Essential: no
+Depends:
+Installed-Size: 400
+Maintainer: Robin Jespersen <robin.jespersen@yahoo.de>
+Description: Magic Multimedia Player
